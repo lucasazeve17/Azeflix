@@ -8,7 +8,7 @@ function Menu() {
     return (
         <nav className="menu">
            <Link to="/">
-                <img classNamLink="logo" src={logo} alt="Azeflix logo" />
+                <img className="logo" src={logo} alt="Azeflix logo" />
            </Link>
             
 
